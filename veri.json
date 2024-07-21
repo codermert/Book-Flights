@@ -1,1 +1,902 @@
-
+[
+  {
+    "fiyat": "18 USD",
+    "havayolu": "Wizz Air",
+    "zamanaralik": "6:20am - 7:40am",
+    "tarih": "30 Temmuz 2024, Salı",
+    "sure": "2 saat 20 dakika",
+    "guzergah": "Gdańsk (GDN) → London (LTN)",
+    "direkt": "Direct"
+  },
+  {
+    "fiyat": "18 USD",
+    "havayolu": "Wizz Air",
+    "zamanaralik": "6:20am - 7:40am",
+    "tarih": "27 Temmuz 2024, Cumartesi",
+    "sure": "2 saat 20 dakika",
+    "guzergah": "Gdańsk (GDN) → London (LTN)",
+    "direkt": "Direct"
+  },
+  {
+    "fiyat": "19 USD",
+    "havayolu": "Vueling",
+    "zamanaralik": "10:50am - 12:15pm",
+    "tarih": "24 Temmuz 2024, Çarşamba",
+    "sure": "2 saat 25 dakika",
+    "guzergah": "Barcelona (BCN) → London (LGW)",
+    "direkt": "Direct"
+  },
+  {
+    "fiyat": "19 USD",
+    "havayolu": "Vueling",
+    "zamanaralik": "11:15am - 12:40pm",
+    "tarih": "24 Temmuz 2024, Çarşamba",
+    "sure": "2 saat 25 dakika",
+    "guzergah": "Barcelona (BCN) → London (LGW)",
+    "direkt": "Direct"
+  },
+  {
+    "fiyat": "19 USD",
+    "havayolu": "Vueling",
+    "zamanaralik": "2:25pm - 3:50pm",
+    "tarih": "24 Temmuz 2024, Çarşamba",
+    "sure": "2 saat 25 dakika",
+    "guzergah": "Barcelona (BCN) → London (LGW)",
+    "direkt": "Direct"
+  },
+  {
+    "fiyat": "19 USD",
+    "havayolu": "Vueling",
+    "zamanaralik": "7:00am - 8:30am",
+    "tarih": "24 Temmuz 2024, Çarşamba",
+    "sure": "2 saat 30 dakika",
+    "guzergah": "Barcelona (BCN) → London (LGW)",
+    "direkt": "Direct"
+  },
+  {
+    "fiyat": "19 USD",
+    "havayolu": "Vueling",
+    "zamanaralik": "8:45am - 10:15am",
+    "tarih": "25 Temmuz 2024, Perşembe",
+    "sure": "2 saat 30 dakika",
+    "guzergah": "Barcelona (BCN) → London (LGW)",
+    "direkt": "Direct"
+  },
+  {
+    "fiyat": "19 USD",
+    "havayolu": "Vueling",
+    "zamanaralik": "7:25am - 8:55am",
+    "tarih": "24 Temmuz 2024, Çarşamba",
+    "sure": "2 saat 30 dakika",
+    "guzergah": "Barcelona (BCN) → London (LGW)",
+    "direkt": "Direct"
+  },
+  {
+    "fiyat": "19 USD",
+    "havayolu": "Vueling",
+    "zamanaralik": "7:25am - 8:55am",
+    "tarih": "25 Temmuz 2024, Perşembe",
+    "sure": "2 saat 30 dakika",
+    "guzergah": "Barcelona (BCN) → London (LGW)",
+    "direkt": "Direct"
+  },
+  {
+    "fiyat": "19 USD",
+    "havayolu": "Vueling",
+    "zamanaralik": "7:00am - 8:30am",
+    "tarih": "25 Temmuz 2024, Perşembe",
+    "sure": "2 saat 30 dakika",
+    "guzergah": "Barcelona (BCN) → London (LGW)",
+    "direkt": "Direct"
+  },
+  {
+    "fiyat": "20 USD",
+    "havayolu": "Ulendo Airlink",
+    "zamanaralik": "8:25am - 9:20am",
+    "tarih": "25 Temmuz 2024, Perşembe",
+    "sure": "0 saat 55 dakika",
+    "guzergah": "Bari (BRI) → Tirana (TIA)",
+    "direkt": "Direct"
+  },
+  {
+    "fiyat": "20 USD",
+    "havayolu": "Wizz Air",
+    "zamanaralik": "10:05pm - 1:05am",
+    "tarih": "7 Ağustos 2024, Çarşamba",
+    "sure": "3 saat 0 dakika",
+    "guzergah": "Stockholm (NYO) → Skopje (SKP)",
+    "direkt": "Direct"
+  },
+  {
+    "fiyat": "21 USD",
+    "havayolu": "Wizz Air",
+    "zamanaralik": "6:05am - 7:35am",
+    "tarih": "20 Temmuz 2024, Cumartesi",
+    "sure": "2 saat 30 dakika",
+    "guzergah": "Katowice (KTW) → London (LTN)",
+    "direkt": "Direct"
+  },
+  {
+    "fiyat": "21 USD",
+    "havayolu": "Wizz Air",
+    "zamanaralik": "6:05am - 7:35am",
+    "tarih": "21 Temmuz 2024, Pazar",
+    "sure": "2 saat 30 dakika",
+    "guzergah": "Katowice (KTW) → London (LTN)",
+    "direkt": "Direct"
+  },
+  {
+    "fiyat": "21 USD",
+    "havayolu": "Wizz Air",
+    "zamanaralik": "6:05am - 7:35am",
+    "tarih": "19 Temmuz 2024, Cuma",
+    "sure": "2 saat 30 dakika",
+    "guzergah": "Katowice (KTW) → London (LTN)",
+    "direkt": "Direct"
+  },
+  {
+    "fiyat": "21 USD",
+    "havayolu": "Wizz Air",
+    "zamanaralik": "10:55pm - 1:35am",
+    "tarih": "7 Ağustos 2024, Çarşamba",
+    "sure": "2 saat 40 dakika",
+    "guzergah": "Copenhagen (CPH) → Skopje (SKP)",
+    "direkt": "Direct"
+  },
+  {
+    "fiyat": "22 USD",
+    "havayolu": "Ulendo Airlink",
+    "zamanaralik": "1:40pm - 2:35pm",
+    "tarih": "31 Temmuz 2024, Çarşamba",
+    "sure": "0 saat 55 dakika",
+    "guzergah": "Brindisi (BDS) → Tirana (TIA)",
+    "direkt": "Direct"
+  },
+  {
+    "fiyat": "22 USD",
+    "havayolu": "Ulendo Airlink",
+    "zamanaralik": "1:15pm - 2:10pm",
+    "tarih": "28 Temmuz 2024, Pazar",
+    "sure": "0 saat 55 dakika",
+    "guzergah": "Bari (BRI) → Tirana (TIA)",
+    "direkt": "Direct"
+  },
+  {
+    "fiyat": "22 USD",
+    "havayolu": "Ulendo Airlink",
+    "zamanaralik": "12:40pm - 1:35pm",
+    "tarih": "29 Temmuz 2024, Pazartesi",
+    "sure": "0 saat 55 dakika",
+    "guzergah": "Brindisi (BDS) → Tirana (TIA)",
+    "direkt": "Direct"
+  },
+  {
+    "fiyat": "22 USD",
+    "havayolu": "Wizz Air",
+    "zamanaralik": "8:40am - 10:05am",
+    "tarih": "7 Ağustos 2024, Çarşamba",
+    "sure": "1 saat 25 dakika",
+    "guzergah": "Budapest (BUD) → Skopje (SKP)",
+    "direkt": "Direct"
+  },
+  {
+    "fiyat": "22 USD",
+    "havayolu": "Wizz Air UK",
+    "zamanaralik": "9:45pm - 10:50pm",
+    "tarih": "1 Ağustos 2024, Perşembe",
+    "sure": "2 saat 5 dakika",
+    "guzergah": "Prague (PRG) → London (LTN)",
+    "direkt": "Direct"
+  },
+  {
+    "fiyat": "22 USD",
+    "havayolu": "Wizz Air UK",
+    "zamanaralik": "4:15pm - 6:00pm",
+    "tarih": "20 Temmuz 2024, Cumartesi",
+    "sure": "2 saat 45 dakika",
+    "guzergah": "Košice (KSC) → London (LTN)",
+    "direkt": "Direct"
+  },
+  {
+    "fiyat": "22 USD",
+    "havayolu": "Wizz Air UK",
+    "zamanaralik": "4:15pm - 6:00pm",
+    "tarih": "18 Temmuz 2024, Perşembe",
+    "sure": "2 saat 45 dakika",
+    "guzergah": "Košice (KSC) → London (LTN)",
+    "direkt": "Direct"
+  },
+  {
+    "fiyat": "22 USD",
+    "havayolu": "Ulendo Airlink",
+    "zamanaralik": "9:45pm - 12:45am",
+    "tarih": "7 Ağustos 2024, Çarşamba",
+    "sure": "3 saat 0 dakika",
+    "guzergah": "Stockholm (NYO) → Tirana (TIA)",
+    "direkt": "Direct"
+  },
+  {
+    "fiyat": "23 USD",
+    "havayolu": "Ulendo Airlink",
+    "zamanaralik": "8:25am - 9:20am",
+    "tarih": "14 Temmuz 2024, Pazar",
+    "sure": "0 saat 55 dakika",
+    "guzergah": "Bari (BRI) → Tirana (TIA)",
+    "direkt": "Direct"
+  },
+  {
+    "fiyat": "23 USD",
+    "havayolu": "Ulendo Airlink",
+    "zamanaralik": "8:20am - 9:15am",
+    "tarih": "17 Temmuz 2024, Çarşamba",
+    "sure": "0 saat 55 dakika",
+    "guzergah": "Bari (BRI) → Tirana (TIA)",
+    "direkt": "Direct"
+  },
+  {
+    "fiyat": "23 USD",
+    "havayolu": "Wizz Air UK",
+    "zamanaralik": "9:35am - 10:40am",
+    "tarih": "20 Temmuz 2024, Cumartesi",
+    "sure": "2 saat 5 dakika",
+    "guzergah": "Prague (PRG) → London (LTN)",
+    "direkt": "Direct"
+  },
+  {
+    "fiyat": "23 USD",
+    "havayolu": "Wizz Air UK",
+    "zamanaralik": "9:35am - 10:40am",
+    "tarih": "18 Temmuz 2024, Perşembe",
+    "sure": "2 saat 5 dakika",
+    "guzergah": "Prague (PRG) → London (LTN)",
+    "direkt": "Direct"
+  },
+  {
+    "fiyat": "23 USD",
+    "havayolu": "Wizz Air",
+    "zamanaralik": "7:10pm - 8:40pm",
+    "tarih": "20 Temmuz 2024, Cumartesi",
+    "sure": "2 saat 30 dakika",
+    "guzergah": "Gdańsk (GDN) → London (LTN)",
+    "direkt": "Direct"
+  },
+  {
+    "fiyat": "23 USD",
+    "havayolu": "Wizz Air",
+    "zamanaralik": "6:05am - 7:35am",
+    "tarih": "18 Temmuz 2024, Perşembe",
+    "sure": "2 saat 30 dakika",
+    "guzergah": "Katowice (KTW) → London (LTN)",
+    "direkt": "Direct"
+  },
+  {
+    "fiyat": "23 USD",
+    "havayolu": "Wizz Air",
+    "zamanaralik": "7:40pm - 9:10pm",
+    "tarih": "18 Temmuz 2024, Perşembe",
+    "sure": "2 saat 30 dakika",
+    "guzergah": "Katowice (KTW) → London (LTN)",
+    "direkt": "Direct"
+  },
+  {
+    "fiyat": "24 USD",
+    "havayolu": "Vueling",
+    "zamanaralik": "7:35am - 8:25am",
+    "tarih": "18 Temmuz 2024, Perşembe",
+    "sure": "1 saat 50 dakika",
+    "guzergah": "Bilbao (BIO) → London (LGW)",
+    "direkt": "Direct"
+  },
+  {
+    "fiyat": "24 USD",
+    "havayolu": "Vueling",
+    "zamanaralik": "7:35am - 8:25am",
+    "tarih": "19 Temmuz 2024, Cuma",
+    "sure": "1 saat 50 dakika",
+    "guzergah": "Bilbao (BIO) → London (LGW)",
+    "direkt": "Direct"
+  },
+  {
+    "fiyat": "24 USD",
+    "havayolu": "Wizz Air UK",
+    "zamanaralik": "9:45am - 11:15am",
+    "tarih": "20 Temmuz 2024, Cumartesi",
+    "sure": "2 saat 30 dakika",
+    "guzergah": "Bratislava (BTS) → London (LTN)",
+    "direkt": "Direct"
+  },
+  {
+    "fiyat": "25 USD",
+    "havayolu": "Wizz Air",
+    "zamanaralik": "6:05am - 7:45am",
+    "tarih": "19 Temmuz 2024, Cuma",
+    "sure": "2 saat 40 dakika",
+    "guzergah": "Budapest (BUD) → London (LTN)",
+    "direkt": "Direct"
+  },
+  {
+    "fiyat": "25 USD",
+    "havayolu": "Wizz Air UK",
+    "zamanaralik": "10:05pm - 10:50pm",
+    "tarih": "27 Temmuz 2024, Cumartesi",
+    "sure": "1 saat 45 dakika",
+    "guzergah": "Prague (PRG) → London (LTN)",
+    "direkt": "Direct"
+  },
+  {
+    "fiyat": "25 USD",
+    "havayolu": "Ulendo Airlink",
+    "zamanaralik": "10:55pm - 12:45am",
+    "tarih": "7 Ağustos 2024, Çarşamba",
+    "sure": "1 saat 50 dakika",
+    "guzergah": "Katowice (KTW) → Tirana (TIA)",
+    "direkt": "Direct"
+  },
+  {
+    "fiyat": "26 USD",
+    "havayolu": "Wizz Air",
+    "zamanaralik": "6:05am - 7:50am",
+    "tarih": "17 Temmuz 2024, Çarşamba",
+    "sure": "2 saat 45 dakika",
+    "guzergah": "Budapest (BUD) → London (LTN)",
+    "direkt": "Direct"
+  },
+  {
+    "fiyat": "26 USD",
+    "havayolu": "Ulendo Airlink",
+    "zamanaralik": "5:20pm - 6:15pm",
+    "tarih": "4 Ağustos 2024, Pazar",
+    "sure": "0 saat 55 dakika",
+    "guzergah": "Brindisi (BDS) → Tirana (TIA)",
+    "direkt": "Direct"
+  },
+  {
+    "fiyat": "26 USD",
+    "havayolu": "Ulendo Airlink",
+    "zamanaralik": "1:40pm - 2:35pm",
+    "tarih": "7 Ağustos 2024, Çarşamba",
+    "sure": "0 saat 55 dakika",
+    "guzergah": "Brindisi (BDS) → Tirana (TIA)",
+    "direkt": "Direct"
+  },
+  {
+    "fiyat": "26 USD",
+    "havayolu": "Ulendo Airlink",
+    "zamanaralik": "5:10pm - 6:40pm",
+    "tarih": "2 Ağustos 2024, Cuma",
+    "sure": "1 saat 30 dakika",
+    "guzergah": "Comiso (CIY) → Tirana (TIA)",
+    "direkt": "Direct"
+  },
+  {
+    "fiyat": "26 USD",
+    "havayolu": "Ulendo Airlink",
+    "zamanaralik": "6:00pm - 7:35pm",
+    "tarih": "7 Ağustos 2024, Çarşamba",
+    "sure": "1 saat 35 dakika",
+    "guzergah": "Vienna (VIE) → Tirana (TIA)",
+    "direkt": "Direct"
+  },
+  {
+    "fiyat": "27 USD",
+    "havayolu": "Wizz Air UK",
+    "zamanaralik": "9:20am - 10:30am",
+    "tarih": "17 Temmuz 2024, Çarşamba",
+    "sure": "2 saat 10 dakika",
+    "guzergah": "Salzburg (SZG) → London (LTN)",
+    "direkt": "Direct"
+  },
+  {
+    "fiyat": "28 USD",
+    "havayolu": "Ulendo Airlink",
+    "zamanaralik": "7:40am - 8:35am",
+    "tarih": "2 Ağustos 2024, Cuma",
+    "sure": "0 saat 55 dakika",
+    "guzergah": "Bari (BRI) → Tirana (TIA)",
+    "direkt": "Direct"
+  },
+  {
+    "fiyat": "28 USD",
+    "havayolu": "Ulendo Airlink",
+    "zamanaralik": "8:25am - 9:20am",
+    "tarih": "28 Temmuz 2024, Pazar",
+    "sure": "0 saat 55 dakika",
+    "guzergah": "Bari (BRI) → Tirana (TIA)",
+    "direkt": "Direct"
+  },
+  {
+    "fiyat": "28 USD",
+    "havayolu": "Ulendo Airlink",
+    "zamanaralik": "9:10pm - 11:05pm",
+    "tarih": "6 Ağustos 2024, Salı",
+    "sure": "1 saat 55 dakika",
+    "guzergah": "Kraków (KRK) → Tirana (TIA)",
+    "direkt": "Direct"
+  },
+  {
+    "fiyat": "28 USD",
+    "havayolu": "Wizz Air",
+    "zamanaralik": "8:45pm - 11:10pm",
+    "tarih": "7 Ağustos 2024, Çarşamba",
+    "sure": "2 saat 25 dakika",
+    "guzergah": "Gothenburg (GOT) → Belgrade (BEG)",
+    "direkt": "Direct"
+  },
+  {
+    "fiyat": "28 USD",
+    "havayolu": "Wizz Air",
+    "zamanaralik": "7:40pm - 9:10pm",
+    "tarih": "17 Temmuz 2024, Çarşamba",
+    "sure": "2 saat 30 dakika",
+    "guzergah": "Katowice (KTW) → London (LTN)",
+    "direkt": "Direct"
+  },
+  {
+    "fiyat": "28 USD",
+    "havayolu": "Wizz Air",
+    "zamanaralik": "10:30am - 1:45pm",
+    "tarih": "5 Ağustos 2024, Pazartesi",
+    "sure": "3 saat 15 dakika",
+    "guzergah": "Oslo (TRF) → Skopje (SKP)",
+    "direkt": "Direct"
+  },
+  {
+    "fiyat": "29 USD",
+    "havayolu": "Wizz Air UK",
+    "zamanaralik": "10:05pm - 10:50pm",
+    "tarih": "18 Temmuz 2024, Perşembe",
+    "sure": "1 saat 45 dakika",
+    "guzergah": "Prague (PRG) → London (LTN)",
+    "direkt": "Direct"
+  },
+  {
+    "fiyat": "29 USD",
+    "havayolu": "Wizz Air UK",
+    "zamanaralik": "9:35am - 10:40am",
+    "tarih": "7 Ağustos 2024, Çarşamba",
+    "sure": "2 saat 5 dakika",
+    "guzergah": "Prague (PRG) → London (LTN)",
+    "direkt": "Direct"
+  },
+  {
+    "fiyat": "29 USD",
+    "havayolu": "Wizz Air",
+    "zamanaralik": "6:05am - 7:35am",
+    "tarih": "17 Temmuz 2024, Çarşamba",
+    "sure": "2 saat 30 dakika",
+    "guzergah": "Katowice (KTW) → London (LTN)",
+    "direkt": "Direct"
+  },
+  {
+    "fiyat": "31 USD",
+    "havayolu": "Wizz Air UK",
+    "zamanaralik": "11:25am - 12:20pm",
+    "tarih": "18 Temmuz 2024, Perşembe",
+    "sure": "1 saat 55 dakika",
+    "guzergah": "Prague (PRG) → London (LGW)",
+    "direkt": "Direct"
+  },
+  {
+    "fiyat": "31 USD",
+    "havayolu": "Ulendo Airlink",
+    "zamanaralik": "8:20am - 9:15am",
+    "tarih": "7 Ağustos 2024, Çarşamba",
+    "sure": "0 saat 55 dakika",
+    "guzergah": "Bari (BRI) → Tirana (TIA)",
+    "direkt": "Direct"
+  },
+  {
+    "fiyat": "31 USD",
+    "havayolu": "Ulendo Airlink",
+    "zamanaralik": "12:55pm - 1:50pm",
+    "tarih": "2 Ağustos 2024, Cuma",
+    "sure": "0 saat 55 dakika",
+    "guzergah": "Bari (BRI) → Tirana (TIA)",
+    "direkt": "Direct"
+  },
+  {
+    "fiyat": "31 USD",
+    "havayolu": "Ulendo Airlink",
+    "zamanaralik": "12:45pm - 1:40pm",
+    "tarih": "2 Ağustos 2024, Cuma",
+    "sure": "0 saat 55 dakika",
+    "guzergah": "Brindisi (BDS) → Tirana (TIA)",
+    "direkt": "Direct"
+  },
+  {
+    "fiyat": "31 USD",
+    "havayolu": "Ulendo Airlink",
+    "zamanaralik": "7:35am - 8:45am",
+    "tarih": "26 Temmuz 2024, Cuma",
+    "sure": "1 saat 10 dakika",
+    "guzergah": "Bari (BRI) → Tirana (TIA)",
+    "direkt": "Direct"
+  },
+  {
+    "fiyat": "31 USD",
+    "havayolu": "Ulendo Airlink",
+    "zamanaralik": "12:30pm - 2:05pm",
+    "tarih": "6 Ağustos 2024, Salı",
+    "sure": "1 saat 35 dakika",
+    "guzergah": "Vienna (VIE) → Tirana (TIA)",
+    "direkt": "Direct"
+  },
+  {
+    "fiyat": "32 USD",
+    "havayolu": "Vueling",
+    "zamanaralik": "9:35pm - 10:25pm",
+    "tarih": "18 Temmuz 2024, Perşembe",
+    "sure": "1 saat 50 dakika",
+    "guzergah": "Bilbao (BIO) → London (LGW)",
+    "direkt": "Direct"
+  },
+  {
+    "fiyat": "33 USD",
+    "havayolu": "Vueling",
+    "zamanaralik": "6:55am - 7:05am",
+    "tarih": "17 Temmuz 2024, Çarşamba",
+    "sure": "1 saat 10 dakika",
+    "guzergah": "Paris (ORY) → London (LGW)",
+    "direkt": "Direct"
+  },
+  {
+    "fiyat": "33 USD",
+    "havayolu": "Ulendo Airlink",
+    "zamanaralik": "5:25pm - 6:15pm",
+    "tarih": "28 Temmuz 2024, Pazar",
+    "sure": "0 saat 50 dakika",
+    "guzergah": "Brindisi (BDS) → Tirana (TIA)",
+    "direkt": "Direct"
+  },
+  {
+    "fiyat": "33 USD",
+    "havayolu": "Ulendo Airlink",
+    "zamanaralik": "8:25am - 9:20am",
+    "tarih": "4 Ağustos 2024, Pazar",
+    "sure": "0 saat 55 dakika",
+    "guzergah": "Bari (BRI) → Tirana (TIA)",
+    "direkt": "Direct"
+  },
+  {
+    "fiyat": "33 USD",
+    "havayolu": "Ulendo Airlink",
+    "zamanaralik": "8:30am - 9:25am",
+    "tarih": "3 Ağustos 2024, Cumartesi",
+    "sure": "0 saat 55 dakika",
+    "guzergah": "Bari (BRI) → Tirana (TIA)",
+    "direkt": "Direct"
+  },
+  {
+    "fiyat": "33 USD",
+    "havayolu": "Vueling",
+    "zamanaralik": "7:10am - 7:15am",
+    "tarih": "18 Temmuz 2024, Perşembe",
+    "sure": "1 saat 5 dakika",
+    "guzergah": "Paris (ORY) → London (LGW)",
+    "direkt": "Direct"
+  },
+  {
+    "fiyat": "33 USD",
+    "havayolu": "Ulendo Airlink",
+    "zamanaralik": "9:00am - 10:25am",
+    "tarih": "7 Ağustos 2024, Çarşamba",
+    "sure": "2 saat 25 dakika",
+    "guzergah": "Vienna (VIE) → London (LGW)",
+    "direkt": "Direct"
+  },
+  {
+    "fiyat": "34 USD",
+    "havayolu": "Wizz Air UK",
+    "zamanaralik": "5:00pm - 6:05pm",
+    "tarih": "6 Ağustos 2024, Salı",
+    "sure": "2 saat 5 dakika",
+    "guzergah": "Prague (PRG) → London (LTN)",
+    "direkt": "Direct"
+  },
+  {
+    "fiyat": "34 USD",
+    "havayolu": "Wizz Air UK",
+    "zamanaralik": "9:35am - 10:40am",
+    "tarih": "6 Ağustos 2024, Salı",
+    "sure": "2 saat 5 dakika",
+    "guzergah": "Prague (PRG) → London (LTN)",
+    "direkt": "Direct"
+  },
+  {
+    "fiyat": "34 USD",
+    "havayolu": "Wizz Air UK",
+    "zamanaralik": "5:00pm - 6:05pm",
+    "tarih": "7 Ağustos 2024, Çarşamba",
+    "sure": "2 saat 5 dakika",
+    "guzergah": "Prague (PRG) → London (LTN)",
+    "direkt": "Direct"
+  },
+  {
+    "fiyat": "34 USD",
+    "havayolu": "Wizz Air",
+    "zamanaralik": "3:40pm - 5:55pm",
+    "tarih": "7 Ağustos 2024, Çarşamba",
+    "sure": "2 saat 15 dakika",
+    "guzergah": "Copenhagen (CPH) → Belgrade (BEG)",
+    "direkt": "Direct"
+  },
+  {
+    "fiyat": "34 USD",
+    "havayolu": "Wizz Air UK",
+    "zamanaralik": "6:55pm - 7:50pm",
+    "tarih": "7 Ağustos 2024, Çarşamba",
+    "sure": "1 saat 55 dakika",
+    "guzergah": "Prague (PRG) → London (LGW)",
+    "direkt": "Direct"
+  },
+  {
+    "fiyat": "34 USD",
+    "havayolu": "Wizz Air",
+    "zamanaralik": "8:45pm - 11:10pm",
+    "tarih": "5 Ağustos 2024, Pazartesi",
+    "sure": "2 saat 25 dakika",
+    "guzergah": "Gothenburg (GOT) → Belgrade (BEG)",
+    "direkt": "Direct"
+  },
+  {
+    "fiyat": "35 USD",
+    "havayolu": "Wizz Air UK",
+    "zamanaralik": "5:00pm - 6:05pm",
+    "tarih": "17 Temmuz 2024, Çarşamba",
+    "sure": "2 saat 5 dakika",
+    "guzergah": "Prague (PRG) → London (LTN)",
+    "direkt": "Direct"
+  },
+  {
+    "fiyat": "36 USD",
+    "havayolu": "Norwegian",
+    "zamanaralik": "7:30pm - 8:35pm",
+    "tarih": "7 Ağustos 2024, Çarşamba",
+    "sure": "2 saat 5 dakika",
+    "guzergah": "Stavanger (SVG) → London (LGW)",
+    "direkt": "Direct"
+  },
+  {
+    "fiyat": "36 USD",
+    "havayolu": "Norwegian",
+    "zamanaralik": "9:15am - 10:20am",
+    "tarih": "7 Ağustos 2024, Çarşamba",
+    "sure": "2 saat 5 dakika",
+    "guzergah": "Stavanger (SVG) → London (LGW)",
+    "direkt": "Direct"
+  },
+  {
+    "fiyat": "36 USD",
+    "havayolu": "Norwegian",
+    "zamanaralik": "7:30pm - 8:35pm",
+    "tarih": "6 Ağustos 2024, Salı",
+    "sure": "2 saat 5 dakika",
+    "guzergah": "Stavanger (SVG) → London (LGW)",
+    "direkt": "Direct"
+  },
+  {
+    "fiyat": "37 USD",
+    "havayolu": "Vueling",
+    "zamanaralik": "11:20am - 11:30am",
+    "tarih": "18 Temmuz 2024, Perşembe",
+    "sure": "1 saat 10 dakika",
+    "guzergah": "Paris (ORY) → London (LGW)",
+    "direkt": "Direct"
+  },
+  {
+    "fiyat": "37 USD",
+    "havayolu": "British Airways",
+    "zamanaralik": "9:35pm - 10:00pm",
+    "tarih": "7 Ağustos 2024, Çarşamba",
+    "sure": "1 saat 25 dakika",
+    "guzergah": "Luxembourg (LUX) → London (LHR)",
+    "direkt": "Direct"
+  },
+  {
+    "fiyat": "37 USD",
+    "havayolu": "Ulendo Airlink",
+    "zamanaralik": "7:55am - 8:50am",
+    "tarih": "5 Ağustos 2024, Pazartesi",
+    "sure": "0 saat 55 dakika",
+    "guzergah": "Bari (BRI) → Tirana (TIA)",
+    "direkt": "Direct"
+  },
+  {
+    "fiyat": "37 USD",
+    "havayolu": "Wizz Air",
+    "zamanaralik": "3:40pm - 5:55pm",
+    "tarih": "5 Ağustos 2024, Pazartesi",
+    "sure": "2 saat 15 dakika",
+    "guzergah": "Copenhagen (CPH) → Belgrade (BEG)",
+    "direkt": "Direct"
+  },
+  {
+    "fiyat": "39 USD",
+    "havayolu": "Ulendo Airlink",
+    "zamanaralik": "8:20am - 9:15am",
+    "tarih": "24 Temmuz 2024, Çarşamba",
+    "sure": "0 saat 55 dakika",
+    "guzergah": "Bari (BRI) → Tirana (TIA)",
+    "direkt": "Direct"
+  },
+  {
+    "fiyat": "40 USD",
+    "havayolu": "Ulendo Airlink",
+    "zamanaralik": "8:30am - 9:25am",
+    "tarih": "6 Ağustos 2024, Salı",
+    "sure": "0 saat 55 dakika",
+    "guzergah": "Bari (BRI) → Tirana (TIA)",
+    "direkt": "Direct"
+  },
+  {
+    "fiyat": "40 USD",
+    "havayolu": "Ulendo Airlink",
+    "zamanaralik": "10:50am - 12:15pm",
+    "tarih": "17 Temmuz 2024, Çarşamba",
+    "sure": "1 saat 25 dakika",
+    "guzergah": "Catania (CTA) → Tirana (TIA)",
+    "direkt": "Direct"
+  },
+  {
+    "fiyat": "40 USD",
+    "havayolu": "Vueling",
+    "zamanaralik": "7:35am - 8:25am",
+    "tarih": "11 Temmuz 2024, Perşembe",
+    "sure": "1 saat 50 dakika",
+    "guzergah": "Bilbao (BIO) → London (LGW)",
+    "direkt": "Direct"
+  },
+  {
+    "fiyat": "40 USD",
+    "havayolu": "Vueling",
+    "zamanaralik": "9:35pm - 10:25pm",
+    "tarih": "11 Temmuz 2024, Perşembe",
+    "sure": "1 saat 50 dakika",
+    "guzergah": "Bilbao (BIO) → London (LGW)",
+    "direkt": "Direct"
+  },
+  {
+    "fiyat": "41 USD",
+    "havayolu": "Wizz Air UK",
+    "zamanaralik": "11:45am - 12:40pm",
+    "tarih": "6 Ağustos 2024, Salı",
+    "sure": "1 saat 55 dakika",
+    "guzergah": "Prague (PRG) → London (LGW)",
+    "direkt": "Direct"
+  },
+  {
+    "fiyat": "41 USD",
+    "havayolu": "British Airways",
+    "zamanaralik": "2:30pm - 4:00pm",
+    "tarih": "24 Temmuz 2024, Çarşamba",
+    "sure": "2 saat 30 dakika",
+    "guzergah": "Palma, Majorca (PMI) → London (LGW)",
+    "direkt": "Direct"
+  },
+  {
+    "fiyat": "41 USD",
+    "havayolu": "British Airways",
+    "zamanaralik": "10:55pm - 12:45am",
+    "tarih": "25 Temmuz 2024, Perşembe",
+    "sure": "2 saat 50 dakika",
+    "guzergah": "Málaga (AGP) → London (LGW)",
+    "direkt": "Direct"
+  },
+  {
+    "fiyat": "42 USD",
+    "havayolu": "Ulendo Airlink",
+    "zamanaralik": "8:30am - 9:25am",
+    "tarih": "30 Temmuz 2024, Salı",
+    "sure": "0 saat 55 dakika",
+    "guzergah": "Bari (BRI) → Tirana (TIA)",
+    "direkt": "Direct"
+  },
+  {
+    "fiyat": "43 USD",
+    "havayolu": "Ulendo Airlink",
+    "zamanaralik": "5:15pm - 6:45pm",
+    "tarih": "5 Ağustos 2024, Pazartesi",
+    "sure": "1 saat 30 dakika",
+    "guzergah": "Comiso (CIY) → Tirana (TIA)",
+    "direkt": "Direct"
+  },
+  {
+    "fiyat": "43 USD",
+    "havayolu": "British Airways",
+    "zamanaralik": "10:25pm - 11:55pm",
+    "tarih": "23 Temmuz 2024, Salı",
+    "sure": "2 saat 30 dakika",
+    "guzergah": "Palma, Majorca (PMI) → London (LGW)",
+    "direkt": "Direct"
+  },
+  {
+    "fiyat": "44 USD",
+    "havayolu": "Aer Lingus",
+    "zamanaralik": "9:20pm - 9:55pm",
+    "tarih": "7 Ağustos 2024, Çarşamba",
+    "sure": "1 saat 35 dakika",
+    "guzergah": "Brussels (BRU) → Dublin (DUB)",
+    "direkt": "Direct"
+  },
+  {
+    "fiyat": "44 USD",
+    "havayolu": "Vueling",
+    "zamanaralik": "8:45am - 10:15am",
+    "tarih": "24 Temmuz 2024, Çarşamba",
+    "sure": "2 saat 30 dakika",
+    "guzergah": "Barcelona (BCN) → London (LGW)",
+    "direkt": "Direct"
+  },
+  {
+    "fiyat": "45 USD",
+    "havayolu": "British Airways",
+    "zamanaralik": "1:15am - 2:45am",
+    "tarih": "26 Temmuz 2024, Cuma",
+    "sure": "2 saat 30 dakika",
+    "guzergah": "Ibiza (IBZ) → London (LGW)",
+    "direkt": "Direct"
+  },
+  {
+    "fiyat": "46 USD",
+    "havayolu": "British Airways",
+    "zamanaralik": "10:05pm - 10:25pm",
+    "tarih": "6 Ağustos 2024, Salı",
+    "sure": "1 saat 20 dakika",
+    "guzergah": "Luxembourg (LUX) → London (LHR)",
+    "direkt": "Direct"
+  },
+  {
+    "fiyat": "46 USD",
+    "havayolu": "British Airways",
+    "zamanaralik": "10:05pm - 10:25pm",
+    "tarih": "30 Temmuz 2024, Salı",
+    "sure": "1 saat 20 dakika",
+    "guzergah": "Luxembourg (LUX) → London (LHR)",
+    "direkt": "Direct"
+  },
+  {
+    "fiyat": "46 USD",
+    "havayolu": "Ulendo Airlink",
+    "zamanaralik": "12:40pm - 1:35pm",
+    "tarih": "5 Ağustos 2024, Pazartesi",
+    "sure": "0 saat 55 dakika",
+    "guzergah": "Brindisi (BDS) → Tirana (TIA)",
+    "direkt": "Direct"
+  },
+  {
+    "fiyat": "50 USD",
+    "havayolu": "British Airways",
+    "zamanaralik": "10:55am - 12:20pm",
+    "tarih": "26 Temmuz 2024, Cuma",
+    "sure": "2 saat 25 dakika",
+    "guzergah": "Palma, Majorca (PMI) → London (LGW)",
+    "direkt": "Direct"
+  },
+  {
+    "fiyat": "53 USD",
+    "havayolu": "Iberia Airlines",
+    "zamanaralik": "12:30pm - 12:35pm",
+    "tarih": "5 Ağustos 2024, Pazartesi",
+    "sure": "1 saat 5 dakika",
+    "guzergah": "Málaga (AGP) → Tangier (TNG)",
+    "direkt": "Direct"
+  },
+  {
+    "fiyat": "88 USD",
+    "havayolu": "British Airways",
+    "zamanaralik": "10:20pm - 11:50pm",
+    "tarih": "19 Temmuz 2024, Cuma",
+    "sure": "2 saat 30 dakika",
+    "guzergah": "Palma, Majorca (PMI) → London (LGW)",
+    "direkt": "Direct"
+  },
+  {
+    "fiyat": "1470 USD",
+    "havayolu": "United Airlines",
+    "zamanaralik": "7:50am - 12:45pm",
+    "tarih": "2 Ağustos 2024, Cuma",
+    "sure": "10 saat 55 dakika",
+    "guzergah": "Munich (MUC) → New York (JFK)",
+    "direkt": "1 Stop"
+  }
+]
