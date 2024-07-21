@@ -4,7 +4,7 @@
   "description": "Uçuş verilerini toplayan app",
   "main": "script.js",
   "scripts": {
-    "start": "node script.js"
+    "start": "node index.js"
   },
   "author": "Mert",
   "license": "ISC",
