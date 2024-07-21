@@ -19,6 +19,7 @@ Proje dosyasını klonlayın ve bağımlılıkları yükleyin:
 git clone https://github.com/codermert/Book-Flights
 cd Book-Flights
 npm install
+```
 
 ### 🛠️ Teknolojiler
 Node.js
