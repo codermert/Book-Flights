@@ -16,8 +16,8 @@ Bu proje ile uçuş bilgilerini hızlı bir şekilde toplayabilir ve verileriniz
 Proje dosyasını klonlayın ve bağımlılıkları yükleyin:
 
 ```bash
-git clone https://github.com/username/ucak-bilgi-toplayici.git
-cd ucak-bilgi-toplayici
+git clone https://github.com/codermert/Book-Flights
+cd Book-Flights
 npm install
 
 ### 🛠️ Teknolojiler
